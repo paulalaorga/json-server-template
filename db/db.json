@@ -2,37 +2,127 @@
   "recipes": [
     {
       "id": 1,
-      "recipe_name": "Eggs",
+      "recipe_name": "Starchy Salad",
       "ingredients": [
         {
-          "name": "egg",
+          "name": "Potatoes",
           "amount": "2"
         },
         {
-          "name": "chicken stock",
+          "name": "Olive oil",
           "amount": "50 ml"
+        },
+        {
+          "name": "Red Capsicum",
+          "amount": "1"
+        },
+        {
+          "name": "Tuna Can",
+          "amount": "1"
+        },
+        {
+          "name": "Olive oil",
+          "amount": "50 ml"
+        },
+        {
+          "name": "Eggs",
+          "amount": "2"
         }
-      ],
-      "pax": 1
+      ]
     },
     {
       "id": 2,
-      "recipe_name": "Pasta",
+      "recipe_name": "Turkey Burguers",
       "ingredients": [
         {
-          "name": "spaguetti",
-          "amount": "20gr"
+          "name": "Turkey mince",
+          "amount": "300 gr"
         },
         {
-          "name": "sauce",
-          "amount": "200ml"
+          "name": "Spinach",
+          "amount": "Bunch"
         },
         {
-          "name": "olive oil",
-          "amount": "50 ml"
+          "name": "Lemon",
+          "amount": "1/2"
+        },
+        {
+          "name": "Onion",
+          "amount": "1/2"
         }
-  ],
-      "pax": 1
+  ]
+    },
+    {
+      "id": 3,
+      "recipe_name": "Risotto",
+      "ingredients": [
+        {
+          "name": "Portobello mushrooms",
+          "amount": "100 gr"
+        },
+        {
+          "name": "Chicken",
+          "amount": "150 gr"
+        },
+        {
+          "name": "Rice",
+          "amount": "200 gr"
+        },
+        {
+          "name": "Onion",
+          "amount": "1/2"
+        },
+        {
+          "name": "Butter",
+          "amount": "50 gr"
+        },
+        {
+          "name": "Olive oil",
+          "amount": "50 ml"
+        },
+        {
+          "name": "Garlic minced",
+          "amount": "1 teaspoon"
+        },
+        {
+          "name": "Grated Cheese",
+          "amount": "50 gr"
+        },
+        {
+          "name": "White wine",
+          "amount": "100 ml"
+        },
+        {
+          "name": "Chicken Stock",
+          "amount": "100 ml"
+        }
+  ]
+    },
+    {
+      "id": 4,
+      "recipe_name": "Potato Omelette",
+      "ingredients": [
+        {
+          "name": "Potatoes",
+          "amount": "3"
+        },
+        {
+          "name": "Eggs",
+          "amount": "4"
+        },
+        {
+          "name": "Onion",
+          "amount": "1/2"
+        },
+        {
+          "name": "Eggs",
+          "amount": "4"
+        },
+        {
+          "name": "Olive oil",
+          "amount": "200 ml"
+        }
+  ]
     }
   ],
   "shopping-list": []
