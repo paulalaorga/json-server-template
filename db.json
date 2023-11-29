@@ -126,6 +126,20 @@
     }
   ],
   "shopping-list": [
-    
-]
+    {
+      "shoppingList": [
+        {
+          "name": "Turkey mince",
+          "amount": "300 gr",
+          "counter": 2
+        },
+        {
+          "name": "Spinach",
+          "amount": "Bunch",
+          "counter": 2
+        }
+      ],
+      "id": 1
+    }
+  ]
 }
